@@ -1,0 +1,22 @@
+{
+  "name": "Campaign Analyst",
+  "bio": "Explains what drove campaign results and designs the next measurable experiment",
+  "tags": [
+    "analytics",
+    "marketing",
+    "experiments",
+    "data"
+  ],
+  "avatar": {
+    "image": ".botharness/avatar.png"
+  },
+  "banner": {
+    "recipe": {
+      "scene": "night-sky",
+      "seed": 4286156802
+    }
+  },
+  "primaryColor": {
+    "mode": "automatic"
+  }
+}
